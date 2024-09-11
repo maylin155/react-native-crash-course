@@ -49,6 +49,13 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
+## Tech Stack
+
+- React Native
+- Expo
+- NativeWind
+- AppWrite
+
 ## Preview
 
 ![image-1](https://github.com/user-attachments/assets/b80b7555-3a29-4d9d-9d8d-5a4da15d5bba)
